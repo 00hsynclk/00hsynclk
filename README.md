@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @00hsynclk
-- 👀 I’m interested in Python Java and Dart-Flutter
+- 👋 Hi, I’m Hüseyin
+- 👀 I’m interested in Python, Java and Dart-Flutter
 - 🌱 I’m currently learning Python
 - 📫 How to reach me hsync0828@gmail.com
 <!---
